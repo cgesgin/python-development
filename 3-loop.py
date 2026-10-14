@@ -8,4 +8,3 @@ while i <= 10:
 for k in range(5, 11):
     print(k)
 
-
